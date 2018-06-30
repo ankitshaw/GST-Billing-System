@@ -4,7 +4,7 @@ A java application using swing for gst bill calculation.
 # Requirements:
 1. Eclipse - Download eclipse IDE for Java EE Developers
 2. Jaspersoft Studio - Goto Eclipse Marketplace in Help Menu in Eclipse and install from there.
-3. Windows Builder - LikeJaspersoft Studio, install this also from the marketplace.
+3. Windows Builder - Like Jaspersoft Studio, install this also from the marketplace.
 4. H2 Database Engine - Download all platform zip from its website http://www.h2database.com/html/main.html and extract it. Import the database needed for the project from the backup.sql, which is in the h2 Database folder.
 
 # Setup:
